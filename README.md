@@ -19,6 +19,8 @@
 
 ## Запуск
 
+Меняем в https://github.com/vsecoder/tg-analitics/blob/main/app/analitics/report.py#L27 на свой tg ID.
+
 ```bash
 pip install -r requirements.txt
 python3 -m app
